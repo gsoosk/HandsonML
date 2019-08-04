@@ -1,3 +1,9 @@
 [submodule "Titanic"]
 	path = Titanic
 	url = https://github.com/gsoosk/Titanic.git
+[submodule "HousePrices"]
+	path = HousePrices
+	url = https://github.com/gsoosk/HousePrices.git
+[submodule "SpamDetecion"]
+	path = SpamDetecion
+	url = https://github.com/gsoosk/SpamDetecion.git
