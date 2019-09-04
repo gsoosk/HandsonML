@@ -7,3 +7,6 @@
 [submodule "SpamDetecion"]
 	path = SpamDetecion
 	url = https://github.com/gsoosk/SpamDetecion.git
+[submodule "FraudDetection"]
+	path = FraudDetection
+	url = https://github.com/gsoosk/FraudDetection.git
